@@ -1,0 +1,82 @@
+MIT | paaeing B.Tech. - Electronics and Telecommunication Engineering
+{As Astoncenous inatitute Afi@uted to Savitrihal Phute Pune University) Ph: +91 -7057839705
+Email: sakshi.kale@mitaoe.ac.in
+Pune, Maharashtra, India
+LinkedIn: httos://www.linkedin.com/in/sakshikalee
+BRIEF SUMMARY
+Aiming to become a Data Analyst Engineer, Proficient in SQL, AWS and Databricks Tool, with hands on experience with visualization
+tool like Power BI. Familliar with cloud services and Devops Tools.
+KEY EXPERTISE
+CPP PowerBl SQL _ Databricks Linux Github AWS Docker Kubernetes Python
+EDUCATION
+MIT Academy of Engineering, Pune 2021 - 2025
+B.Tech. - Electronics and Telecommunication Engineering | CGPA: 8.73/10
+Dr.M.K.Umathe college, Nagpur 2021
+12 | MSBSHSE | Percentage: 92/100
+Eklavya Madhyamik School, Jalgaon 2019
+10" | MSBSHSE | Percentage: 80.60 / 100
+INTERNSHIPS
+Hirademy Technologies 15 Jun, 2024 - 15 Sep, 2024
+Software Engineer Intern
+Key Skills: Docker Github AWS  RestAPI SQL  Kubernetes Security
+As a Software Engineer Intern, | am working on project where containerized the whole project with database. Also authenticated the
+API's. Implemented robust Authorization and Authentication mechanisms for backend systems using JWT (JSON Web Tokens) and
+role-based access control (RBAC), ensuring secure access to APIs and data.
+AICTE 08 Jan, 2024 - 25 Mar, 2024
+Data Engineering Virtual Internship
+In this virtual internship , | completed course of AWS Academy Data Engineering.
+AICTE 11 Sep, 2023 - 13 Nov, 2023
+Cloud Virtual Internship
+In this virtual internship, | completed two sub-course of AWS Academy Cloud Foundations and AWS Academy Cloud Architecting.
+PROJECTS
+Scalable Cl/CD Pipeline for Streamify Application 06 May, 2024 - 03 Jun, 2024
+Team Size: 1
+Key Skills: AWS  Terraform Jenkins Docker Kubernetes
+¢ Developed a scalable Cl/CD pipeline for a Next.js streaming application using Jenkins and GitHub, ensuring
+automatic testing, building, and deployment.
+¢ Provisioned infrastructure using Terraform to manage AWS resources like EC2 instances and IAM roles, enabling
+secure and consistent deployments.
+¢ Integrated SonarQube for continuous code quality and security analysis, improving code reliability and detecting
+vulnerabilities early.
+e Automated the deployment of the application to a Kubernetes cluster, ensuring high availability and scalability.
+* Set up real-time monitoring using Prometheus and Grafana for tracking system performance and visualizing metrics.
+Streamify 01 Jan, 2024 - 11 Mar, 2024
+Team Size: 2
+Key Skills: Next.js React PostreSQL Prisma Clerk Ngrok  TailwindCSS
+Project Link: https://streamify-git-main-sakshi-kales-projects-4890a701 .vercel.app/
+| developed a web application using Next.js and Tailwind CSS, integrating Prisma with PostgreSQL APls from Neon Tech. For user
+authentication, | implemented Clerk, and | utilized Ngrok to facilitate rapid global communication. This website's primary function is live
+
+streaming.
+Portfolio 24 Nov, 2023 - 02 Dec, 2023
+Team Size: 1
+Key Skills: Next.js, Bootstrap, Tailwind CSS
+Project Link: https://portfolio-seven-psi-64.vercel.app/
+This website is my portfolio to showcase my Projects and Skills.
+Retail Analytics Dashboard
+Key Skills: PowerBl SQL
+¢ Integrated Power BI with SQL and Excel to import over 3 million records, ensuring efficient data retrieval.
+¢ Developed a comprehensive dashboard in Power BI from the ground up, providing insights for retail operations, inventory
+management, and sales forecasting to support decision-making and drive profit maximization.
+ASSESSMENTS / CERTIFICATIONS
+AWS Cloud Quest: Cloud Practitioner
+Key Skills: EC2 S3 VPC RDS
+EXTRA CURRICULAR ACTIVITIES
+
+o Head of Avionic's Department of AERO Club , MITAOE
+PERSONAL INTERESTS / HOBBIES
+
+© Solving Sudoku
+
+o Reading Current Affairs
+WEB LINKS
+
+o Github - https://github.com/sakshikaleee
+PERSONAL DETAILS
+
+Gender: Female Date of Birth: 28 Jan, 2003
+
+Marital Status: Single Known Languages: Hindi Marathi English
+Current Address: Kale colony, Alandi, Pune, Maharashtra, India © Phone Number: +91-7057839705
+Emails: sakshi.kale@mitaoe.ac.in , sakshikale6832@gmail.com
+
