@@ -29,12 +29,15 @@ cd Employee-Data
 ### 2. Install Dependencies
 ##Frontend (React):
 Navigate to the frontend directory and install dependencies:
+
 cd frontend
 npm install
 
 
 ##Backend (Node.js and Express):
+
 Navigate to the backend directory and install dependencies:
+
 cd backend
 npm install
 
@@ -57,11 +60,14 @@ Replace your_mongodb_atlas_connection_string with the connection string obtained
 5. Run the Application
 Start the Backend Server:
 Navigate to the backend directory and run:
+
 cd backend
 python app.py
+
 The backend server will start on the port specified in the .env file (default is 5000).
 
 Start the Frontend Server:
+
 Navigate to the frontend directory and run:
 
 cd frontend
@@ -69,6 +75,9 @@ npm start
 This will start the frontend React application, and you can access it in your browser at http://localhost:3000.
 
 To check the aimodel functionality:
+
 cd model
+
 ocr-env\Scripts\activate
+
 python aimodel.py
