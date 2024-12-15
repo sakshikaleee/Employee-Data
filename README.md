@@ -23,6 +23,7 @@ Follow these steps to set up the project on your local machine:
 ### 1. Clone the repository
 
 git clone https://github.com/your-username/Employee-Data.git
+
 cd Employee-Data
 
 
@@ -30,7 +31,8 @@ cd Employee-Data
 ##Frontend (React):
 Navigate to the frontend directory and install dependencies:
 
-cd frontend
+cd data
+
 npm install
 
 
@@ -38,8 +40,10 @@ npm install
 
 Navigate to the backend directory and install dependencies:
 
-cd backend
-npm install
+cd model
+
+npm install express
+
 
 3. Configure MongoDB Atlas
 You need to set up a MongoDB Atlas cluster to store the candidate records.
@@ -50,6 +54,8 @@ In the Database Access section, create a new user with readWrite permissions.
 In the Network Access section, allow access from anywhere (0.0.0.0/0) or specify your IP.
 Obtain the connection string for your MongoDB Atlas cluster.
 
+npm install mongoose
+
 4. Setup Environment Variables
 Create a .env file in the backend folder with the following variables:
 
@@ -59,9 +65,13 @@ Replace your_mongodb_atlas_connection_string with the connection string obtained
 
 5. Run the Application
 Start the Backend Server:
+
 Navigate to the backend directory and run:
 
-cd backend
+cd model
+
+ocr-env\Scripts\activate
+
 python app.py
 
 The backend server will start on the port specified in the .env file (default is 5000).
@@ -70,8 +80,10 @@ Start the Frontend Server:
 
 Navigate to the frontend directory and run:
 
-cd frontend
+cd data
+
 npm start
+
 This will start the frontend React application, and you can access it in your browser at http://localhost:3000.
 
 To check the aimodel functionality:
